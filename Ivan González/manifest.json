@@ -1,0 +1,20 @@
+{
+  "name": "Find my Band",
+  "short_name": "Find my Band",
+  "start_url": ".",
+  "background_color": "#14279B",
+  "theme_color": "#14279B",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/images/music192px.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/music512px.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
